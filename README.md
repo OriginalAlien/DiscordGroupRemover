@@ -8,3 +8,7 @@ Basically just uses ur discord token and when you type "start" on discord it jus
 
 
 You can use this if a kid spam adds you to a group, it will leave all groups ur in automatically.
+
+
+You can run this script on a python replit on replit.com (More instructions will be in the console when executed)
+DM sigma#4268 on Discord for help.
